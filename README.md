@@ -272,9 +272,11 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Shubham Pashte**
+**Shubham Sudhakar Pashte**
 
-Cybersecurity Enthusiast | Diploma Student
+Final year Diploma in Computer Science & Engineering Student
+
+Cybersecurity Enthusiast | Data Science with Python learner
 
 ---
 
@@ -282,17 +284,17 @@ Cybersecurity Enthusiast | Diploma Student
 
 ## 📌 GitHub Profile
 
-https://github.com/YOUR_USERNAME
+https://github.com/pashteshubham9-afk
 
 
 ## 📌 GitHub Repository
 
-https://github.com/YOUR_USERNAME/Phishing-Awareness-Program
+https://github.com/pashteshubham9-afk/Phishing-Awareness-Program
 
 
 ## 📌 LinkedIn Profile
 
-https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+https://www.linkedin.com/in/shubham-pashte-36b6153b2
 
 ---
 
