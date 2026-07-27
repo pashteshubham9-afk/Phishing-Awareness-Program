@@ -166,6 +166,16 @@ python -m streamlit run app.py
 
 ---
 
+# 📊 Project Presentation
+
+The complete project presentation is available below:
+
+📌 **Phishing Awareness Program Presentation**
+
+[View Presentation](Presentation/Phishing-Awareness-Program-Presentation.pptx)
+
+---
+
 # ⚙️ How It Works
 
 The application works in the following steps:
