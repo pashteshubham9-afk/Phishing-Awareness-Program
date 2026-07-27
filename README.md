@@ -78,7 +78,8 @@ Phishing-Awareness-Program/
 ├── requirements.txt            # Required Python packages
 ├── README.md                   # Project documentation
 ├── LICENSE                    # MIT License
-│
+├── Presentation/
+│   └── Phishing-Awareness-Program-Presentation.pptx
 └── screenshots/
     ├── home_page.png           # Application home page screenshot
     └── home_page2.png          # Phishing awareness content screenshot
@@ -106,7 +107,7 @@ pip install -r requirements.txt
 ## Clone Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/Phishing-Awareness-Program.git
+git clone https://github.com/pashteshubham9-afk/Phishing-Awareness-Program.git
 ```
 
 ---
